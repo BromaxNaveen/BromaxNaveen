@@ -1,19 +1,19 @@
 
-<--------Software Technologies Website for learning and tutorials----------->
+<--------**Software Technologies Website for learning and tutorials**----------->
 
-About Us
+**About Us**
 
 Welcome to Bromax, where your journey to mastering tech skills begins!
 
-Our Mission
+**Our Mission**
 
 At Bromax, we believe that everyone has the potential to become proficient in technology. Our mission is to provide a comprehensive, user-friendly platform where learners of all levels can acquire the skills they need to succeed in today’s digital world.
 
-Who We Are
+**Who We Are**
 
 We are a passionate team of tech enthusiasts, educators, and industry professionals dedicated to making tech education accessible to all. Whether you’re just starting out or looking to advance your career, we are here to support you every step of the way.
 
-What We Offer
+**What We Offer**
 
 Diverse Course Selection: From coding and software development to IT and cybersecurity, we offer a wide range of courses designed to meet your learning goals.
 Expert Instructors: Learn from experienced professionals who are experts in their fields and passionate about teaching.
@@ -29,7 +29,7 @@ Join Us Today!
 
 Whether you’re aiming to start a new career, improve your current skills, or simply explore a new hobby, Bromax is here to help you achieve your goals. Start your tech learning journey with us today and unlock your potential!
 
-Contact Us
+**Contact Us**
 
 Have questions or need assistance? Reach out to our support team at bromax.a1@gmail.com. We’re here to help!
 
